@@ -1,0 +1,4 @@
+from 9 hp to 79 in 10 sec = 7 hp / sec
+at the cost of 
+80 food and 80 water
+70 heal per unit

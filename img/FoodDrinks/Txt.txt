@@ -1,0 +1,8 @@
+Whilest hunger and thirst isn't a major threat, you always shoud keep an eye them. Food and Hydration is measured Points, which are displayed at the bottom left sinde of the screen.
+You can have 0-100 Food/Hydration points. When it goes below 25 you will no longer be able to regain health Points. When the food/hydration points hit zero you will lose hp, 1 HP-Point per 5 seconds.
+
+ 
+Food and drinks are no scarcity. When you spawn on the map, you will have 1 can of soda and 1 tuna-can in your inventory. Various sorts of foods and drinks can be found all around the map. Mainly you will find them in corpses(either on player corpses or sometimes scaves, also they
+can be found in houses where other loot spawns aswell. Also you can buy food and drinks in the outposts, for around 400 rubl.
+
+Maintainig a high level of food and hydration can be curcial in fights, since it food and hydration points are used to regain Health fast. More about that at <a>Medical.</a>

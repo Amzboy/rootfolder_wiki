@@ -1,0 +1,3 @@
+from 54 to 74 in 4 sec = 5 hp / sec
+
+at the cost of 45 Hydrationpoints

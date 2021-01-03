@@ -1,0 +1,74 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.leftdiv {
+  width: 10%;
+  height: 100%;
+  background-color: lightgrey;
+}
+.leftdiv2{
+  padding-left: 26px;
+  padding-right: 26px;
+  line-height:130%;
+}
+
+.topdiv1 {
+  width: 90%;
+  height: 60px;
+  background-color: white;
+  position: absolute;
+  left: 10%;
+  top: 0px;
+  font-size: 40px;
+}
+
+
+.maindiv {
+  position: absolute;
+  top: 60px;
+  width: calc(90% - 54px);
+  left: calc(10% + 1px);
+  outline: 1px solid blue;
+  padding-top: 10px;
+  padding-left: 26px;
+  padding-right: 26px;
+}
+
+.mainimg {
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 17px;
+}
+
+.inhaltsver{
+  width: 25%;
+  background-color: lightgray;
+  padding-top: 10px;
+  font-family: Arial;
+  line-height:150%;
+  outline: 1px solid black;
+}
+
+.ShopItem1{
+height: 80px;
+width: 300px;
+outline: 1px solid black;
+margin: 10px;
+float: left;
+}
+
+.ShopItemImage{
+  float: left;
+  height: 100%;
+}
+
+.ShopItemPrice{
+  background-color: red;
+  width:44.1%;
+  height: 100%;
+  float: left;
+}

@@ -1,0 +1,2 @@
+from 79 hp 97 to in 43 sec = 0,46 hp/ sec
+20hp per unit
